@@ -1,5 +1,11 @@
 # ScriptableObject-Asset-Creator
- 通用的 ScriptableObject .asset 文件生成工具/Generic ScriptableObject ".asset" file generation tool.
+ 通用的 ScriptableObject .asset 文件生成工具
+ 
+ Generic ScriptableObject ".asset" file generation tool.
+
+从此再也不写类似``[CreateAssetMenu(menuName = "CreateScriptableObject")]``这样的属性了。
+
+From nowon, there is no need to add an attribute like ``[CreateAssetMenu(menuName = "CreateScriptableObject")]`` onto the script name for creating "asset" file.
 
  # 功能：
 
